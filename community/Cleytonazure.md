@@ -11,19 +11,21 @@ https://learn.microsoft.com/pt-br/users/cleytonx-9807/
 
 
 Habilidades 
-Sistema Operacional
+Sistema de TI
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-FFFFF?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows](https://img.shields.io/badge/CISCO-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ZABBIX](https://img.shields.io/badge/ZABBIX-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)>
 
 
 Cloud Computing Service
 
 ![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 ![AWS](https://img.shields.io/badge/AWS-sss.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GoogleCloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
 GitHub Status
